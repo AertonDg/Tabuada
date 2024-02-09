@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(169, 116, 255);
+}
+section{
+    background-color: aliceblue;
+    padding: 50px;
+    width: 300px;
+    margin: auto;
+    border-radius: 20px;
+    box-shadow: 6px 6px 11px rgba(0, 0, 0, 0.171);
+}
+header{
+    margin: auto;
+    text-align: center;
+    color: white;
+    
+}
+#btn{
+    border-radius: 20px;
+    background-color: rgb(255, 189, 233);
+}
+footer{
+    text-align: center;
+    padding: 10px;
+    color: white;
+}
+#tabu{
+    text-align: center;
+}
+#img{
+    height: 50px
+    
+}
+#img2{
+    text-align: center;
+}
